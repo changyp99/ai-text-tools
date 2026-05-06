@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://yoursite.com/sitemap.xml
+Sitemap: https://changyp99.github.io/ai-text-tools/sitemap.xml
